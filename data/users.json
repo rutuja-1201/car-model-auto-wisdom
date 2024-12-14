@@ -1,0 +1,23 @@
+[
+  {},
+  {
+    "id": 2,
+    "email": "r60@gmail.com",
+    "password": "$2a$10$DJ/8AvAfNS5KqYdN/rA02erc9PYMrccqxK7eU8cVno2ysqXFix23q"
+  },
+  {
+    "id": 3,
+    "email": "rkd@gmail.com",
+    "password": "$2a$10$y2AfZJquqIl7B3Crcv7RWeQDbqNH17fQndMTjcP2bzIXFN.LCjsie"
+  },
+  {
+    "id": 4,
+    "email": "rkd1@gmail.com",
+    "password": "$2a$10$gpdyus5UOLfUs2.LKAOp8uvfZ684P.IOJd779vgsuUvNe9BCjdPNy"
+  },
+  {
+    "id": 5,
+    "email": "1233@gmail.com",
+    "password": "$2a$10$HmFLkKm84EUuo1hBjVaeMO7.ywZeoYCJxDS/0uuI39tDwcI.b4Icy"
+  }
+]
