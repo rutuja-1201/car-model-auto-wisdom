@@ -21,11 +21,9 @@ Clone the repository:
 git clone https://github.com/rutuja-1201/car-model-auto-wisdom
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Start the project:
 
-bash
-Copy code
+
 npm start
