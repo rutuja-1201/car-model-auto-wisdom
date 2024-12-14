@@ -15,15 +15,14 @@ Simple form for users to schedule consultations with a consultant.
 Added tooltips to buttons.
 
 
-Setup
-Clone the repository:
+**Setup
+**Clone the repository:
 
 git clone https://github.com/rutuja-1201/car-model-auto-wisdom
+
 Install dependencies:
-
-
 npm install
+
+
 Start the project:
-
-
-npm start
+npm run dev
